@@ -1,7 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My New Hugo Site</title>
-        <link>http://example.org/categories/</link>
-        <description>Categories - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+        <title>Categories - Category - Diego Andres Roa Perdomo</title>
+        <link>http://www.darptolus.com/categories/</link>
+        <description>Categories - Category - Diego Andres Roa Perdomo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 May 2021 15:30:47 -0400</lastBuildDate><atom:link href="http://www.darptolus.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Projects</title>
+    <link>http://www.darptolus.com/categories/projects/</link>
+    <pubDate>Thu, 20 May 2021 15:30:47 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://www.darptolus.com/categories/projects/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

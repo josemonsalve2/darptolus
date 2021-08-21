@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Diego Andres Roa Perdomo</title>
-        <link>http://www.darptolus.com/</link>
-        <description>Diego Andres Roa Perdomo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Aug 2021 22:30:21 -0400</lastBuildDate>
-            <atom:link href="http://www.darptolus.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Diego Andres Roa Perdomo</title>
+        <link>http://www.darptolus.com/posts/</link>
+        <description>All Posts | Diego Andres Roa Perdomo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 May 2021 15:30:47 -0400</lastBuildDate><atom:link href="http://www.darptolus.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>DECARD</title>
     <link>http://www.darptolus.com/posts/decard/decard/</link>
     <pubDate>Thu, 20 May 2021 15:30:47 -0400</pubDate>

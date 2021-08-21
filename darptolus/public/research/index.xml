@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Diego Andres Roa Perdomo</title>
+    <link>http://www.darptolus.com/research/</link>
+    <description>Recent content in Researches on Diego Andres Roa Perdomo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Aug 2021 22:30:06 -0400</lastBuildDate><atom:link href="http://www.darptolus.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>http://www.darptolus.com/research/test2/</link>
+      <pubDate>Thu, 19 Aug 2021 22:30:06 -0400</pubDate>
+      
+      <guid>http://www.darptolus.com/research/test2/</guid>
+      <description>this is a test2</description>
+    </item>
+    
+  </channel>
+</rss>

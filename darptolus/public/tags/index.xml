@@ -1,7 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
-        <link>http://example.org/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+        <title>Tags - Tag - Diego Andres Roa Perdomo</title>
+        <link>http://www.darptolus.com/tags/</link>
+        <description>Tags - Tag - Diego Andres Roa Perdomo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 May 2021 15:30:47 -0400</lastBuildDate><atom:link href="http://www.darptolus.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>3Dprinted</title>
+    <link>http://www.darptolus.com/tags/3dprinted/</link>
+    <pubDate>Thu, 20 May 2021 15:30:47 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://www.darptolus.com/tags/3dprinted/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cluster</title>
+    <link>http://www.darptolus.com/tags/cluster/</link>
+    <pubDate>Thu, 20 May 2021 15:30:47 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://www.darptolus.com/tags/cluster/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Compiler</title>
+    <link>http://www.darptolus.com/tags/compiler/</link>
+    <pubDate>Thu, 20 May 2021 15:30:32 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://www.darptolus.com/tags/compiler/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>MLIR</title>
+    <link>http://www.darptolus.com/tags/mlir/</link>
+    <pubDate>Thu, 20 May 2021 15:30:32 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://www.darptolus.com/tags/mlir/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
