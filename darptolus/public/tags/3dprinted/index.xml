@@ -10,7 +10,7 @@
     <author>Author</author>
     <guid>http://www.darptolus.com/posts/decard/decard/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/DECARD_CAM.jpg" referrerpolicy="no-referrer">
+                <img src="/posts/decard/DECARD_CAM.png" referrerpolicy="no-referrer">
             </div><p>The <strong>Distributed Execution Codelet Accelerated Runtime for Dataflow</strong> (DECARD), is an extension of the Codelet Model designed to handle distributed parallel computation.</p>]]></description>
 </item><item>
     <title>DEMAC - The Modular Cluster</title>
@@ -19,7 +19,7 @@
     <author>Author</author>
     <guid>http://www.darptolus.com/posts/demac/demac/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/DEMAC_pic.jpg" referrerpolicy="no-referrer">
+                <img src="/posts/demac/DEMAC_pic.jpg" referrerpolicy="no-referrer">
             </div><p>DEMAC: The <strong>Delaware Modular Assembly Cluster</strong> is designed to integrate an array of embedded systems witha set of 3D printed frames that provide support for the boards, the cooling units, and the power units.</p>]]></description>
 </item></channel>
 </rss>

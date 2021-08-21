@@ -6,7 +6,7 @@ author: "Diego"
 authorLink: "https://www.darptolus.com/"
 description: "DECARD: Distributed Execution Codelet Accelerated Runtime for Dataflow"
 
-featuredImage: "DECARD_CAM.jpg"
+featuredImage: "/posts/decard/DECARD_CAM.png"
 
 tags: ["Cluster", "3Dprinted"]
 categories: ["Projects"]
