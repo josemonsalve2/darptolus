@@ -11,35 +11,70 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  # site description
+  description = "Diego Andres Roa Perdomo"
+  # site keywords
+  keywords = ["CAPSL", "HPC"]
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/avatar.jpg"
+      # title shown in home page (HTML format is supported)
+      title = ""
+      # subtitle shown in home page
+      subtitle = "Electrical & Computer Engineering, Research Assistant"
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = false
+      # disclaimer (HTML format is supported)
+      disclaimer = ""
+
+
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "resume"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Resume"
+    url = "/resume/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
+    identifier = "research"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Research"
+    url = "/research/"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "others"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Others"
+    url = "/others/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/darptolus"
+    title = "GitHub"
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
@@ -48,3 +83,14 @@ theme = "LoveIt"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
+#[languages]
+#  [languages.en]
+#    weight = 1
+#    # language code
+#    languageCode = "en"
+#    # language name
+#    languageName = "English"
+#    # whether to include Chinese/Japanese/Korean
+#    hasCJKLanguage = false
+#    # default amount of posts in each pages
+#    paginate = 12
